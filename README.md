@@ -9,8 +9,6 @@
   <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColorr">
   <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
    <img align="center" alt="giovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/bootstrap-original.svg?size=128&color=currentColor">
- <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 
 </div>
@@ -24,6 +22,6 @@
   <a href="https://www.linkedin.com/in/giovani-messias-81976982/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/giovanimessi/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
