@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanimessi&layout=compact&langs_count=16&theme=dracula"/>
 <div>>
 <div style="display: inline_block"><br>
-  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColorr">
+  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
