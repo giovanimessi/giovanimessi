@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColorr">
   <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
- <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/bootstrap-original.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 
