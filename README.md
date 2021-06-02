@@ -10,6 +10,7 @@
   <img align="center" alt="giovani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="giovani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="giovani-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 
 </div>
   
