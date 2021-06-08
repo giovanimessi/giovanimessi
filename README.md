@@ -4,6 +4,8 @@
   <a href="https://github.com/giovanimessi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanimessi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanimessi&layout=compact&langs_count=16&theme=dracula"/>
+       <img align="right" alt="Rafa-yoda" src="https://gif-avatars.com/img/150x150/yoda-1.gif">
+
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColorr">
@@ -13,8 +15,7 @@
 
 
 </div>
-    <img align="right" alt="Rafa-yoda" src="https://gif-avatars.com/img/150x150/yoda-1.gif">
-  ##
+ 
  
 <div> 
 
