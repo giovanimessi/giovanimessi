@@ -7,22 +7,7 @@
  
 
 <div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColorr">
-  <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-   <img align="center" alt="giovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width ="40"/> </a> <a href="https://www.linux.org/" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width ="40"/> </a>
- <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="30"/> 
- <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />          
- <img align="center" alt="giovani-mysql" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img align="center" alt="giovani-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-          
-          
-          
-</div>
+
  
  ##
  
